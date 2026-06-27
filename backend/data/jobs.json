@@ -1,0 +1,62 @@
+[
+  {
+    "id": "job-001",
+    "title": "Cloud Architect (Amaze® Platform)",
+    "department": "Cloud & Infrastructure",
+    "location": "Chennai, India (Hybrid)",
+    "type": "Full-time",
+    "experience": "8-12 Years",
+    "description": "Design and engineer cloud solutions leveraging Hexaware's Amaze® platform for cloud migration. Collaborate with enterprise customers to build scalable infrastructure.",
+    "requirements": [
+      "Extensive experience with AWS/Azure/GCP architectures",
+      "Experience with legacy modernization and cloud migration strategies",
+      "Proficient in infrastructure as code (Terraform, Ansible)",
+      "Strong communication and leadership capabilities"
+    ]
+  },
+  {
+    "id": "job-002",
+    "title": "Automation Test Lead (Tensai® Platform)",
+    "department": "Quality Assurance & Automation",
+    "location": "Mumbai, India (On-site)",
+    "type": "Full-time",
+    "experience": "5-8 Years",
+    "description": "Lead testing automation efforts using Hexaware's flagship Tensai® platform. Design test coverage frameworks and integrate test pipelines with CI/CD systems.",
+    "requirements": [
+      "Strong coding skills in Java, Python, or C#",
+      "Hands-on experience with Selenium, Cypress, and TestNG",
+      "Experience leading QA teams and mentoring junior developers",
+      "Knowledge of automation frameworks and DevOps toolchains"
+    ]
+  },
+  {
+    "id": "job-003",
+    "title": "React Frontend Engineer",
+    "department": "Digital Technologies",
+    "location": "Pune, India (Remote)",
+    "type": "Full-time",
+    "experience": "3-5 Years",
+    "description": "Develop visually stunning and responsive web applications for enterprise clients using React.js. Build reusable components and collaborate with UX designers.",
+    "requirements": [
+      "Proficient in React, JavaScript (ES6+), HTML5, and CSS3",
+      "Experience with state management libraries (Redux, Context API)",
+      "Familiarity with responsive web design and mobile-first principles",
+      "Knowledge of Git and frontend build tools (Vite, Webpack)"
+    ]
+  },
+  {
+    "id": "job-004",
+    "title": "SAP Technical Consultant",
+    "department": "Enterprise Solutions",
+    "location": "Bangalore, India (Hybrid)",
+    "type": "Full-time",
+    "experience": "4-7 Years",
+    "description": "Deliver custom technical solutions within the SAP landscape. Work on SAP ABAP, Fiori development, and enterprise integrations.",
+    "requirements": [
+      "Strong background in SAP ABAP, OO ABAP, and Web Dynpro",
+      "Experience in SAP UI5/Fiori design and development",
+      "Familiarity with SAP S/4HANA migration pathways",
+      "Excellent debugging and system troubleshooting skills"
+    ]
+  }
+]

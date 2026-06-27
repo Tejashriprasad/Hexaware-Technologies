@@ -1,0 +1,41 @@
+[
+  {
+    "id": "case-001",
+    "title": "Legacy Modernization via Amaze® for a Global Retail Bank",
+    "category": "Cloud & Infrastructure",
+    "client": "Fortune 500 Bank",
+    "challenge": "A major retail banking client was struggling with high hosting costs and operational delays due to an outdated monolithic legacy framework running on-premise.",
+    "solution": "Leveraged Hexaware's Amaze® platform to automatically refactor, re-architect, and migrate the bank's core customer portal to Microsoft Azure, containerizing the workload using AKS.",
+    "impact": [
+      "40% reduction in infrastructure operating costs",
+      "Accelerated migration timeline by 50% compared to manual rewrites",
+      "Improved platform scalability to support 10M+ daily active sessions"
+    ]
+  },
+  {
+    "id": "case-002",
+    "title": "Autonomous IT Operations powered by Tensai® for Healthcare Leader",
+    "category": "Automation",
+    "client": "Leading Health Insurance Provider",
+    "challenge": "The client had over 15,000 monthly incident tickets leading to server downtime, slow response times, and highly manual operational overhead.",
+    "solution": "Deployed Hexaware's Tensai® platform to orchestrate auto-remediation workflows, integrating machine learning modules to predict potential server alerts and automatically resolve high-volume alerts.",
+    "impact": [
+      "65% reduction in high-priority IT incident ticket count",
+      "Mean Time to Resolve (MTTR) slashed from 4 hours to under 6 minutes",
+      "Over $1.2M saved annually in operational support costs"
+    ]
+  },
+  {
+    "id": "case-003",
+    "title": "Omnichannel CX Transformation for an International Airlines Group",
+    "category": "Digital IT Services",
+    "client": "Global Airline Alliance",
+    "challenge": "Fliers experienced long queue times on support lines and disjointed web/app experiences during service disruption events.",
+    "solution": "Re-engineered the flight support experience using generative AI conversational agents, unified customer profiles, and modernized web UI channels.",
+    "impact": [
+      "Customer Satisfaction (CSAT) rating boosted by 30%",
+      "70% of routine inquiries resolved without human agent intervention",
+      "Seamless customer profiles accessible in real-time across agents globally"
+    ]
+  }
+]
